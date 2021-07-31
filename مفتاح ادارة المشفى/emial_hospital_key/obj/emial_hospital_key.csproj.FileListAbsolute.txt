@@ -1,0 +1,6 @@
+D:\my projects\ادارة كافيتريا المشافي\مفتاح ادارة المشفى\emial_hospital_key\bin\emial_hospital_key.exe
+D:\my projects\ادارة كافيتريا المشافي\مفتاح ادارة المشفى\emial_hospital_key\obj\emial_hospital_key.csprojResolveAssemblyReference.cache
+D:\my projects\ادارة كافيتريا المشافي\مفتاح ادارة المشفى\emial_hospital_key\obj\emial_hospital_key.Form1.resources
+D:\my projects\ادارة كافيتريا المشافي\مفتاح ادارة المشفى\emial_hospital_key\obj\emial_hospital_key.Properties.Resources.resources
+D:\my projects\ادارة كافيتريا المشافي\مفتاح ادارة المشفى\emial_hospital_key\obj\emial_hospital_key.csproj.GenerateResource.Cache
+D:\my projects\ادارة كافيتريا المشافي\مفتاح ادارة المشفى\emial_hospital_key\obj\emial_hospital_key.exe

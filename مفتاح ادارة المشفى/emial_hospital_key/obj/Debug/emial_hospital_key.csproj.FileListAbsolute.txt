@@ -1,0 +1,37 @@
+C:\Users\koko\Documents\kamel_projects\emial_hospital_key\emial_hospital_key\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\koko\Documents\kamel_projects\emial_hospital_key\emial_hospital_key\obj\Debug\emial_hospital_key.Properties.Resources.resources
+C:\Users\koko\Documents\kamel_projects\emial_hospital_key\emial_hospital_key\obj\Debug\emial_hospital_key.csproj.GenerateResource.Cache
+C:\Users\koko\Documents\kamel_projects\emial_hospital_key\emial_hospital_key\bin\Debug\emial_hospital_key.exe
+C:\Users\koko\Documents\kamel_projects\emial_hospital_key\emial_hospital_key\bin\Debug\emial_hospital_key.pdb
+C:\Users\koko\Documents\kamel_projects\emial_hospital_key\emial_hospital_key\obj\Debug\emial_hospital_key.exe
+C:\Users\koko\Documents\kamel_projects\emial_hospital_key\emial_hospital_key\obj\Debug\emial_hospital_key.pdb
+C:\Users\koko\Documents\kamel_projects\emial_hospital_key\emial_hospital_key\obj\Debug\emial_hospital_key.Form1.resources
+C:\Users\kamel\Documents\kamel_projects\emial_hospital_key\emial_hospital_key\obj\Debug\emial_hospital_key.exe
+C:\Users\kamel\Documents\kamel_projects\emial_hospital_key\emial_hospital_key\obj\Debug\emial_hospital_key.pdb
+C:\Users\kamel\Documents\kamel_projects\emial_hospital_key\emial_hospital_key\bin\Debug\emial_hospital_key.exe
+C:\Users\kamel\Documents\kamel_projects\emial_hospital_key\emial_hospital_key\bin\Debug\emial_hospital_key.pdb
+C:\Users\kamel\Documents\kamel_projects\emial_hospital_key\emial_hospital_key\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kamel\Documents\kamel_projects\emial_hospital_key\emial_hospital_key\obj\Debug\emial_hospital_key.Form1.resources
+C:\Users\kamel\Documents\kamel_projects\emial_hospital_key\emial_hospital_key\obj\Debug\emial_hospital_key.Properties.Resources.resources
+C:\Users\kamel\Documents\kamel_projects\emial_hospital_key\emial_hospital_key\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\kamel\Documents\kamel_projects\emial_hospital_key\emial_hospital_key\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\kamel_projects\emial_hospital_key\emial_hospital_key\obj\Debug\emial_hospital_key.exe
+D:\kamel_projects\emial_hospital_key\emial_hospital_key\obj\Debug\emial_hospital_key.pdb
+D:\kamel_projects\emial_hospital_key\emial_hospital_key\bin\Debug\emial_hospital_key.exe
+D:\kamel_projects\emial_hospital_key\emial_hospital_key\bin\Debug\emial_hospital_key.pdb
+D:\kamel_projects\emial_hospital_key\emial_hospital_key\obj\Debug\ResolveAssemblyReference.cache
+D:\kamel_projects\emial_hospital_key\emial_hospital_key\obj\Debug\emial_hospital_key.Form1.resources
+D:\kamel_projects\emial_hospital_key\emial_hospital_key\obj\Debug\emial_hospital_key.Properties.Resources.resources
+D:\kamel_projects\emial_hospital_key\emial_hospital_key\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\kamel_projects\emial_hospital_key\emial_hospital_key\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\my projects\مفتاح ادارة المشف\emial_hospital_key\obj\Debug\emial_hospital_key.csprojResolveAssemblyReference.cache
+D:\my projects\مفتاح ادارة المشف\emial_hospital_key\obj\Debug\emial_hospital_key.exe
+D:\my projects\مفتاح ادارة المشف\emial_hospital_key\obj\Debug\emial_hospital_key.pdb
+D:\my projects\ادارة كافيتريا المشافي\مفتاح ادارة المشفى\emial_hospital_key\obj\Debug\emial_hospital_key.csprojResolveAssemblyReference.cache
+D:\my projects\ادارة كافيتريا المشافي\مفتاح ادارة المشفى\emial_hospital_key\bin\Debug\emial_hospital_key.exe
+D:\my projects\ادارة كافيتريا المشافي\مفتاح ادارة المشفى\emial_hospital_key\bin\Debug\emial_hospital_key.pdb
+D:\my projects\ادارة كافيتريا المشافي\مفتاح ادارة المشفى\emial_hospital_key\obj\Debug\emial_hospital_key.Form1.resources
+D:\my projects\ادارة كافيتريا المشافي\مفتاح ادارة المشفى\emial_hospital_key\obj\Debug\emial_hospital_key.Properties.Resources.resources
+D:\my projects\ادارة كافيتريا المشافي\مفتاح ادارة المشفى\emial_hospital_key\obj\Debug\emial_hospital_key.csproj.GenerateResource.Cache
+D:\my projects\ادارة كافيتريا المشافي\مفتاح ادارة المشفى\emial_hospital_key\obj\Debug\emial_hospital_key.exe
+D:\my projects\ادارة كافيتريا المشافي\مفتاح ادارة المشفى\emial_hospital_key\obj\Debug\emial_hospital_key.pdb

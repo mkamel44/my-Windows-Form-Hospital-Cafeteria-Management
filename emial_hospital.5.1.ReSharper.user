@@ -1,0 +1,80 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Application`0" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="int" priority="1" />
+      <Item value="i" priority="1" />
+      <Item value="if" priority="0" />
+      <Item value="else" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridView">
+      <Item value="RowContextMenuStripChanged" priority="0" />
+      <Item value="Rows" priority="0" />
+      <Item value="SelectedRows" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewRow">
+      <Item value="Cells" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewCell">
+      <Item value="Value" priority="0" />
+      <Item value="RowIndex" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewSelectedRowCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Program.cs" caret="419" fromTop="16" />
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:DBase.cs" caret="322" fromTop="9" />
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Form19.cs" caret="3085" fromTop="17" />
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Form12.cs" caret="3012" fromTop="7" />
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Form6.cs" caret="2515" fromTop="41" />
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Form2.cs" caret="6538" fromTop="7" />
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Form1.cs" caret="677" fromTop="10" />
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Form18.cs" caret="5068" fromTop="41" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Program.cs" caret="419" fromTop="16" />
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Form12.cs" caret="1945" fromTop="15" />
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Form12.cs" caret="1560" fromTop="8" />
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Form6.cs" caret="3924" fromTop="12" />
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Form6.cs" caret="3948" fromTop="25" />
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Form6.cs" caret="3876" fromTop="22" />
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Form6.cs" caret="3876" fromTop="21" />
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Form6.cs" caret="3901" fromTop="23" />
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Form6.cs" caret="3325" fromTop="12" />
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Form12.cs" caret="3924" fromTop="31" />
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Form12.cs" caret="3924" fromTop="15" />
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Form12.cs" caret="3924" fromTop="31" />
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Form12.cs" caret="3831" fromTop="27" />
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Form2.cs" caret="3196" fromTop="22" />
+      <File id="6F64001E-61DB-4052-B3C0-6C88DDC2BDED/f:Form18.cs" caret="5207" fromTop="19" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
